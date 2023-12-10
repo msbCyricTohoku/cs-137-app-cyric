@@ -1,0 +1,3 @@
+- Bug fixes to gender averaged effective dose computations.
+- Bug fixes to lung conversion coefficient for male ORNL phantom.
+- Hi FDroid!

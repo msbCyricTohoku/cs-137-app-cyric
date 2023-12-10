@@ -1,0 +1,6 @@
+The Cs-137 soil contamination has detrimental effects on human health. The penetration and distribution of Cs-137 radionuclides at different soil depths were investigated. A portable open-source android program was developed to determine conversion coefficients, equivalent and effective dose values for four different phantoms.
+
+The android version of the program provides users with much higher portability as the users can input the Cs-137 activity concentrations measured onsite and get the results rather instantly. 
+
+Developed by Hiroshi Watabe and Mehrdad S. Beni
+Cyric, Tohoku University, Japan.
