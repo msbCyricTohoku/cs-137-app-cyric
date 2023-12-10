@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cs-137 App by CYRIC</string>
+
+    <string-array name="organs">
+        <item>RBM</item>
+        <item>Colon</item>
+        <item>Lung</item>
+        <item>Stomach</item>
+        <item>Breast</item>
+        <item>Gonads</item>
+        <item>Bladder</item>
+        <item>Esophagus</item>
+        <item>Liver</item>
+        <item>Thyroid</item>
+        <item>Endosteum</item>
+        <item>Brain</item>
+        <item>Salivary Glands</item>
+        <item>Skin</item>
+        <item>Remainder</item>
+    </string-array>
+</resources>
